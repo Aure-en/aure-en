@@ -23,7 +23,7 @@ Hi, I'm Aurélie, a passionate developer from France. After discovering the worl
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aure-en)](https://github.com/anuraghazra/github-readme-stats)
 
-## How to reach me
+## Find me elsewhere
 You can write me at any of the following places, I'll do my best to respond as soon as possible.
 
 * <a href="mailto:nn.aurelie@hotmail.fr">Email</a>
