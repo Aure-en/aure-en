@@ -21,7 +21,7 @@ Hi, I'm Aurélie, a passionate developer from France. After discovering the worl
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aure-en)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aure-en&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Find me elsewhere
 You can write me at any of the following places, I'll do my best to respond as soon as possible.
