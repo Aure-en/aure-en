@@ -3,7 +3,7 @@
 Hi, I'm Aurélie, a passionate developer from France. After discovering the world of web development on [The Odin Project](https://www.theodinproject.com/), I fell in love with imagining websites and materializing new ideas to the navigator. I'm open minded and always striving to improve to create better interfaces. Besides programming, I tend to lose track of time when playing the piano, gaming or reading.
 
 ## What I am currently focusing on...
-* Studying web developpement with [Ecole O'Clock](https://oclock.io/)
+* Studying web development with [Ecole O'Clock](https://oclock.io/)
 * Improving my MERN skills by building projects (currently working on a [chat application](https://lechat.vercel.app/) in my free time)
 * Learning TypeScript
 
