@@ -1,6 +1,8 @@
 ## Learning something new everyday
 
-Hi, I'm Aurélie, a passionate developer from France. After discovering the world of web development on [The Odin Project](https://www.theodinproject.com/), I fell in love with imagining websites and materializing new ideas to the navigator. I'm open minded and always striving to improve to create better interfaces. Besides programming, I tend to lose track of time when playing the piano, gaming or reading.
+Hello, I’m Aurélie, a developer from France. I started studying web development with the help of The Odin Project. Using the vast list of resources they offer, I was able to obtain new learning skills as I studied web fundamentals and learnt to enjoy building responsive websites from scratch to bring new ideas to life in a browser. Striving to improve my skills, I then joined Ecole O’Clock to aim for the French “Titre de développeur web et web mobile”.
+
+Invested in a life-long learning mentality, I currently strive to join an innovative team where I could keep on growing both personally and professionally on a long-term period.
 
 ## What I am currently focusing on...
 * Studying web development with [Ecole O'Clock](https://oclock.io/)
