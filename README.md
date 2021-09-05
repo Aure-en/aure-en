@@ -28,5 +28,5 @@ Invested in a life-long learning mentality, I currently strive to join an innova
 ## Find me elsewhere
 You can write me at any of the following places, I'll do my best to respond as soon as possible.
 
-* <a href="mailto:nn.aurelie@hotmail.fr">Email</a>
+* <a href="mailto:nn.aurelie@hotmail.com">Email</a>
 * <a href="https://www.linkedin.com/in/aur%C3%A9lie-nguyen/">LinkedIn</a>
